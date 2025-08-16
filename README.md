@@ -17,3 +17,4 @@ tool:
 12. 資料轉換為人類可讀的時間戳記(線上版） - https://www.epochconverter.com/
 13. dnSpy - https://dnspy.org/
 14. ALEAPP(手機鑑識) - https://github.com/abrignoni/ALEAPP/releases
+15. autopsy(磁碟與檔案鑑識) - https://www.autopsy.com/download/
