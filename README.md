@@ -16,3 +16,4 @@ tool:
 11. DCode資料轉換為人類可讀的時間戳記 - https://www.digital-detective.net/dcode/
 12. 資料轉換為人類可讀的時間戳記(線上版） - https://www.epochconverter.com/
 13. dnSpy - https://dnspy.org/
+14. ALEAPP(手機鑑識) - https://github.com/abrignoni/ALEAPP/releases
